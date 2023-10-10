@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6520106252da1e7daaf37dee"
+  },
+  "title": "Avatar",
+  "genre": [
+    "Action, Adventure, Fantasy"
+  ],
+  "releaseDate": "18 Dec 2009",
+  "description": "garbage film"
+},
+{
+  "_id": {
+    "$oid": "6520106252da1e7daaf37def"
+  },
+  "title": "Lord of the Rings",
+  "genre": [
+    "Action, Adventure, Fantasy"
+  ],
+  "releaseDate": "19 Dec 2001",
+  "description": "best film ever"
+},
+{
+  "_id": {
+    "$oid": "6520106252da1e7daaf37df0"
+  },
+  "title": "Avatar: The Way of Water",
+  "genre": [
+    "Action, Adventure, Fantasy"
+  ],
+  "releaseDate": "06 Dec 2022",
+  "description": "very-very garbage film"
+}]
